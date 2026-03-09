@@ -21,9 +21,8 @@
 # 🚀 Skills & Tools
 
 ### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
+
+Python | Java | C
 
 ### Data Analytics Tools
 <p>
@@ -40,9 +39,7 @@ Pandas | NumPy | Matplotlib | Seaborn | Plotly | Scikit-learn
 ---
 
 ### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+HTML | CSS | JavaScript
 
 ---
 
