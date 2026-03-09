@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Navodya Liyamalithi</h1>
 <h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Power+BI+Dashboard+Developer;Python+Data+Analysis;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
 
 ---
 
