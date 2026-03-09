@@ -56,32 +56,6 @@ Arduino Programming
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/navodya-liyamalithi/
