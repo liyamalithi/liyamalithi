@@ -30,7 +30,7 @@
 
 💡 Interested in transforming raw data into meaningful insights and data-driven solutions.
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/navodya-liyamalithi/
 - 📧 Email: nliyamalithi@gmail.com
