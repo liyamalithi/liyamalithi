@@ -3,52 +3,32 @@
 <h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
 
 
----
+## 👨‍💻 About Me
 
-## 👩‍💻 About Me
+🎓 Graduate in **Physical Science - ICT** from the **University of Sri Jayewardenepura**
 
-- 🎓 Graduate in **Physical Science - ICT at University of Sri Jayewardenepura**
-- 🎓 Interested in **Data Analytics & Data Science**
-- 📊 Skilled in **Data Analysis, Visualization & Dashboard Development**
-- 🌱 Currently learning **Advanced Data Science**
-- 💡 Passionate about turning **data into meaningful insights**
+📊 Passionate about **Data Analytics, Data Science, and Business Intelligence**
 
----
+## 📈 Skilled in:
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Machine Learning Basics
 
-# 🚀 Skills & Tools
+## 🛠️ Experienced with:
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- Scikit-learn
 
-### Programming Languages
+## 🌱 Currently learning:
+- Advanced Data Science
+- Predictive Analytics
+- Deep Learning
 
-Python | Java | C
-
-### Data Analytics Tools
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
-
-Power BI | Advanced Excel | Jupyter Notebook | Google Colab  
-
----
-
-### Python Libraries
-Pandas | NumPy | Matplotlib | Seaborn | Plotly | Scikit-learn  
-
----
-
-### Web Development
-HTML | CSS | JavaScript
-
----
-
-### Database
-SQL | Excel  
-
----
-
-### Embedded Systems
-Arduino Programming  
-
----
+💡 Interested in transforming raw data into meaningful insights and data-driven solutions.
 
 # 📫 Connect With Me
 
